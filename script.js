@@ -1,1 +1,3 @@
-// JS skript pro manipulaci s formulářem
+function goTo(page) {
+  window.location.href = page;
+}
