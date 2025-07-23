@@ -1,3 +1,1 @@
-function goTo(page) {
-  window.location.href = page;
-}
+// Přechody + Firebase zápis + Trigger SMS

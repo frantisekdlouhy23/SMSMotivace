@@ -1,1 +1,1 @@
-// Skript pro odesílání SMS přes SMSbrana.cz
+// Odeslání SMS na 704 103 168 (testovací zpráva)

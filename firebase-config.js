@@ -1,1 +1,1 @@
-// Firebase config zde
+// Konfigurace tvého Firebase projektu
