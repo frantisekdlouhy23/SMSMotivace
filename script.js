@@ -1,1 +1,1 @@
-// Přechody + Firebase zápis + Trigger SMS
+// JS funkce zde
