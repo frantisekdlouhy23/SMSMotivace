@@ -1,0 +1,1 @@
+// Skript pro odesílání SMS přes SMSbrana.cz
