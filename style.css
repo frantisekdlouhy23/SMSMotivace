@@ -1,0 +1,5 @@
+body { margin:0;font-family:sans-serif;background:#111; color:#eee; display:flex;justify-content:center;align-items:center;height:100vh;}
+.container { background:#222; padding:2rem;border-radius:10px;max-width:400px;width:100%;}
+form label { display:block; margin:0.5rem 0; }
+.note { color:#f93; font-size:0.9rem; margin-top:0.5rem; }
+button { background:#0f0; color:#000; padding:0.8rem; border:none; border-radius:5px; cursor:pointer; width:100%; margin-top:1rem;}
